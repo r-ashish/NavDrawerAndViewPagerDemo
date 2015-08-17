@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bookabry.com</string>
+    <string name="app_name">NavDrawerAndViewPagerDemo</string>
     <string name="action_settings">Sign Out</string>
     <string name="drawer_open">open</string>
     <string name="drawer_close">close</string>
