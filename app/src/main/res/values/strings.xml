@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bookabry.com</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Hot Deals</item>
+        <item >Search books</item>
+        <item >My Books</item>
+        <item >Account</item>
+        <item >Help</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_search</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_pages</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_find_books">findBooks</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
